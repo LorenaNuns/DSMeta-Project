@@ -1,12 +1,19 @@
-import NotificationButton from "./components/NotificationButton"
-
+import NotificationButton from './components/NotificationButton'
+import Header from './components/Header'
+import SalesCard from './components/SalesCard'
 
 function App() {
-  return(
+  return (
     <>
-    <h1>Olá mundo! :D</h1>
-    <NotificationButton/>
-    <NotificationButton/>
+      <Header></Header>
+      <main>
+        <section id="sales">
+          {/*  A 1º div controla a largura do retangulo  e o 2º as composições dentro do div */}
+          <div className="dsmeta-container">
+            <SalesCard />
+          </div>
+        </section>
+      </main>
     </>
   )
 }

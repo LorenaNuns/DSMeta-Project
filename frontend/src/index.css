@@ -18,3 +18,14 @@ a, a:hover, a:visited {
   color: unset;
   text-decoration: none;
 }
+
+.dsmeta-container{
+  width:100%; /*largura 100% da tela por padrão*/
+  max-width: 900px; /*a largura máxima, abaixo disso a largura é máxima, acima o conteúdo fica no centro */
+  margin: 0 auto; /* O margin 0 auto é um macete para deixar o conteúdo no centro e a margem se ajustar conforme o tamanho da tela */
+
+}
+
+#sales {
+  padding: 40px 10px;
+}
