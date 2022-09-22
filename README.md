@@ -6,6 +6,7 @@ A Semana consistiu na construção de uma aplicação web completa com back-end 
 O site consiste numa busca de vendas por um período. Então, ao selecionar uma data, uma relação com algumas informações é mostrada, ao clicar em notificar, uma notificação é enviada para o vendedor (nesse caso, é enviada para o meu celular).
 
 Link do projeto: https://dsmeta-lorenanunes.netlify.app/
+
 (ps: Demora um pouco para carregar)
 
 Espero que goste! :)
